@@ -52,7 +52,7 @@ Brain Atlas allows the user to search through the various structures in our brai
 
 ### Check it out here : < deployed link will go here > 
 
- <img src="" width="65%"> 
+ <img src="/HomeScreen.png" width="65%"> 
 
 <hr>
 
@@ -64,7 +64,7 @@ Fun whac-a-mole game created with vanilla javascript. Image files created with F
 
 ### Check it out here : [whacAmole](https://whacamoleproject.surge.sh/)
 
- <img src="" width="65%"> 
+ <img src="/whacAmole.png" width="65%"> 
 
 <hr>
 
