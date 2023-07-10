@@ -37,7 +37,7 @@
 
 ### Mongoose/Express/React/Node Team project.
 
-description of website
+Nebula-Nav is an interactive starmap site that allows users to explore the wonders of the universe. With Nebula-Nav, you can navigate through the stars, discover space objects, and learn fascinating information about the cosmos. Let your curiosity guide you as you embark on a space journey!
 
 ### Check it out deployed here : [nebula-nav.com](https://nebula-nav.vercel.app/)
 
