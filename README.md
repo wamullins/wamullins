@@ -9,7 +9,7 @@
 ## Portfolio/Contact
 
 
-Portfolio | Email [mullinsa428@gmail.com](mailto:mullinsa428@gmail.com)\
+Portfolio | Email [mullinsa428@gmail.com](mailto:mullinsa428@gmail.com) | 
 [LinkedIn](https://www.linkedin.com/in/w-andrew-mullins/) 
 
 ## I've worked with:
