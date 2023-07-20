@@ -6,6 +6,12 @@
 </tr>
 </table>
 
+## Portfolio/Contact
+
+
+Portfolio | Email [mullinsa428@gmail.com](mailto:mullinsa428@gmail.com)\
+[LinkedIn](https://www.linkedin.com/in/w-andrew-mullins/) 
+
 ## I've worked with:
 
 ### Skills/Tools:
@@ -67,9 +73,3 @@ Fun whac-a-mole game created with vanilla javascript. Image files created with F
  <img src="/whacAmole.png" width="65%"> 
 
 <hr>
-
-## Portfolio/Contact
-
-
-Portfolio | Email [mullinsa428@gmail.com](mailto:mullinsa428@gmail.com)\
-[LinkedIn](https://www.linkedin.com/in/w-andrew-mullins/) 
